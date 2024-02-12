@@ -1,0 +1,19 @@
+
+
+A beolvasott adatok a kovetkezok: 
+
+Az x darab bitcoin amit a(z) 1. szemely altal adott arany-bevetel szerint lehet felirni: 6
+A(z) 1. szemely arany-bevetelei: 1 0 1 
+
+Az x darab bitcoin amit a(z) 2. szemely altal adott arany-bevetel szerint lehet felirni: 7
+A(z) 2. szemely arany-bevetelei: 0 -3 1 
+
+Az x darab bitcoin amit a(z) 3. szemely altal adott arany-bevetel szerint lehet felirni: 11
+A(z) 3. szemely arany-bevetelei: 2 1 2 
+
+
+
+A szemelyek nyeresege/vesztessege: 
+1. szemely: (nyereseg)		2 darab bitcoin 
+2. szemely: (veszteseg)	-1 darab bitcoin
+3. szemely: (nyereseg)		4 darab bitcoin 
